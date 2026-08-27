@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0125-valid-palindrome) |
 ## Trie
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0125-valid-palindrome) |
 ## Binary Search
 |  |
 | ------- |
