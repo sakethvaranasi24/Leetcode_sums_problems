@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0088-merge-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0125-valid-palindrome) |
 ## Binary Search
 |  |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0067-add-binary) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
