@@ -36,11 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/1929-concatenation-of-array) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0125-valid-palindrome) |
 ## Trie
 |  |
@@ -56,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0035-search-insert-position) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
