@@ -32,12 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0268-missing-number) |
 | [1470-shuffle-the-array](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -64,10 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -75,10 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
