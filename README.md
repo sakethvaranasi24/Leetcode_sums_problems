@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/1929-concatenation-of-array) |
 ## String
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0125-valid-palindrome) |
+| [0412-fizz-buzz](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
 | ------- |
