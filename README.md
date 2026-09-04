@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0283-move-zeroes) |
 | [1470-shuffle-the-array](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
