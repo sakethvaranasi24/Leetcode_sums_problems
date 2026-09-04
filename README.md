@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0283-move-zeroes) |
 | [1470-shuffle-the-array](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/1470-shuffle-the-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0268-missing-number) |
 ## Simulation
@@ -96,11 +98,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0191-number-of-1-bits) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
