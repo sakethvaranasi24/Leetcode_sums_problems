@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0704-binary-search) |
 | [1470-shuffle-the-array](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
