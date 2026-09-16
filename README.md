@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0704-binary-search) |
 | [1470-shuffle-the-array](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/1470-shuffle-the-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0387-first-unique-character-in-a-string) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
