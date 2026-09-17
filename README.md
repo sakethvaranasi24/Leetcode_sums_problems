@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0724-find-pivot-index) |
 | [1470-shuffle-the-array](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/1470-shuffle-the-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/1929-concatenation-of-array) |
@@ -156,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
