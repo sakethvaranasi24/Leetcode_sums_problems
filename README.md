@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0283-move-zeroes) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1768-merge-strings-alternately](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/1768-merge-strings-alternately) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/sakethvaranasi24/Leetcode_sums_problems/tree/master/0704-binary-search) |
